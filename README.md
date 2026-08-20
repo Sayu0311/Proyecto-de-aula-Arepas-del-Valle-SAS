@@ -75,3 +75,35 @@ El proyecto generará valor para la gerencia y los supervisores al proporcionar 
 - La aplicación debe ofrecer tiempos de respuesta adecuados para la consulta y visualización de la información.
 - La información presentada debe mantener consistencia con los registros de producción utilizados como fuente.
 - La aplicación debe estar orientada a facilitar el seguimiento de los indicadores sin intervenir directamente sobre la maquinaria o automatizar los procesos productivos.
+
+  ## Indicadores de calidad, eficiencia, OEE y paradas
+
+Para el monitoreo del desempeño de la producción, la aplicación permitirá visualizar indicadores relacionados con la calidad, eficiencia, disponibilidad, rendimiento, OEE y tiempos de paro. Estos indicadores facilitarán el seguimiento del comportamiento de la operación y apoyarán la toma de decisiones por parte de la gerencia y los supervisores.
+
+### Calidad
+
+| Indicador | Descripción | Fórmula / información |
+|---|---|---|
+| Calidad (%) | Porcentaje de productos conformes respecto a la producción total. | (Productos conformes / Producción total) × 100 |
+| Producto conforme | Cantidad de unidades que cumplen con los criterios de calidad establecidos. | Información a visualizar en el dashboard |
+| Producto no conforme | Cantidad de unidades que no cumplen con los criterios de calidad establecidos. | Información a visualizar en el dashboard |
+
+### Eficiencia y desempeño
+
+| Indicador | Descripción | Fórmula |
+|---|---|---|
+| Eficiencia de producción (%) | Permite comparar la producción real con la capacidad teórica de producción. | (Producción real / Capacidad teórica de producción) × 100 |
+| Disponibilidad (%) | Permite conocer el porcentaje del tiempo programado en el que la operación estuvo disponible. | (Tiempo operativo / Tiempo programado) × 100 |
+| Rendimiento (%) | Permite comparar la producción real con la producción esperada según la velocidad estándar. | (Producción real / Producción esperada según velocidad estándar) × 100 |
+
+### Paradas de producción
+
+| Indicador | Descripción | Fórmula |
+|---|---|---|
+| Tiempo de paro de máquinas | Representa el tiempo total durante el cual las máquinas permanecen detenidas durante un turno. | Σ minutos de paro durante el turno |
+
+### OEE
+
+| Indicador | Descripción | Fórmula |
+|---|---|---|
+| OEE (%) | Indicador que integra disponibilidad, rendimiento y calidad para evaluar el desempeño general de la operación. | Disponibilidad × Rendimiento × Calidad |
