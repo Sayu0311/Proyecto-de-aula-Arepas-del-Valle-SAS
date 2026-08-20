@@ -36,3 +36,15 @@ Desarrollar una aplicación web de dashboards que permita a la gerencia y a los 
 El proyecto comprende el diseño y desarrollo de una aplicación web orientada al monitoreo de indicadores de producción de Arepas del Valle S.A.S. La solución permitirá visualizar información relacionada con el desempeño de la planta mediante dashboards y gráficos, utilizando datos históricos y registros de producción.
 
 El proyecto se enfoca en proporcionar una herramienta de apoyo para el seguimiento y análisis de los indicadores definidos, sin contemplar la automatización completa de los procesos productivos ni la intervención directa sobre la maquinaria de la planta.
+
+## Indicadores de producción
+
+Para el monitoreo del proceso productivo de Arepas del Valle S.A.S., se proponen los siguientes indicadores, los cuales permitirán visualizar el comportamiento de la producción y apoyar la toma de decisiones por parte de la gerencia y los supervisores:
+
+| Indicador | Descripción | Utilidad |
+|---|---|---|
+| Producción total | Cantidad total de unidades producidas durante un periodo determinado. | Permite conocer el volumen de producción alcanzado. |
+| Producción por turno | Cantidad de unidades producidas en cada turno de trabajo. | Facilita la comparación del desempeño entre turnos. |
+| Cumplimiento de la producción | Relación entre la cantidad producida y la cantidad programada para un periodo determinado. | Permite identificar si se están cumpliendo las metas de producción. |
+| Producción por referencia | Cantidad de unidades producidas según el tipo o referencia de producto. | Permite analizar el comportamiento de la producción de cada referencia. |
+| Producción por hora | Cantidad de unidades producidas durante cada hora de operación. | Permite observar el comportamiento de la producción durante el turno e identificar variaciones. |
