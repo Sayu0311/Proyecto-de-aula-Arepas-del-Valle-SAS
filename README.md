@@ -48,3 +48,11 @@ Para el monitoreo del proceso productivo de Arepas del Valle S.A.S., se proponen
 | Cumplimiento de la producción | Relación entre la cantidad producida y la cantidad programada para un periodo determinado. | Permite identificar si se están cumpliendo las metas de producción. |
 | Producción por referencia | Cantidad de unidades producidas según el tipo o referencia de producto. | Permite analizar el comportamiento de la producción de cada referencia. |
 | Producción por hora | Cantidad de unidades producidas durante cada hora de operación. | Permite observar el comportamiento de la producción durante el turno e identificar variaciones. |
+
+## Justificación
+
+El desarrollo de una aplicación web de dashboards para Arepas del Valle S.A.S. se justifica por la necesidad de contar con información de producción organizada, oportuna y fácil de interpretar para apoyar la toma de decisiones. Actualmente, el seguimiento de los indicadores depende de registros y procesos de consolidación que pueden dificultar la disponibilidad oportuna de la información.
+
+La aplicación permitirá centralizar y visualizar los principales indicadores de producción mediante dashboards, facilitando el seguimiento del desempeño de la planta y la identificación de variaciones en aspectos como producción, calidad, eficiencia y tiempos de paro.
+
+El proyecto generará valor para la gerencia y los supervisores al proporcionar información que facilite el seguimiento de metas, la detección de situaciones que requieran atención y el análisis del comportamiento de la operación. De esta manera, la herramienta contribuirá al mejoramiento continuo de los procesos y al uso de información para apoyar decisiones relacionadas con el desempeño productivo.
