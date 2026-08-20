@@ -56,3 +56,22 @@ El desarrollo de una aplicación web de dashboards para Arepas del Valle S.A.S. 
 La aplicación permitirá centralizar y visualizar los principales indicadores de producción mediante dashboards, facilitando el seguimiento del desempeño de la planta y la identificación de variaciones en aspectos como producción, calidad, eficiencia y tiempos de paro.
 
 El proyecto generará valor para la gerencia y los supervisores al proporcionar información que facilite el seguimiento de metas, la detección de situaciones que requieran atención y el análisis del comportamiento de la operación. De esta manera, la herramienta contribuirá al mejoramiento continuo de los procesos y al uso de información para apoyar decisiones relacionadas con el desempeño productivo.
+
+## Requerimientos funcionales y no funcionales
+
+### Requerimientos funcionales
+
+- La aplicación debe permitir registrar y consultar información relacionada con la producción.
+- La aplicación debe permitir visualizar los principales indicadores de producción mediante dashboards.
+- La aplicación debe permitir consultar información histórica de producción para facilitar el seguimiento y análisis.
+- La aplicación debe permitir visualizar indicadores relacionados con producción, calidad, eficiencia y tiempos de paro.
+- La aplicación debe permitir organizar y presentar la información de producción de manera clara para facilitar su interpretación.
+- La aplicación debe permitir identificar variaciones en el comportamiento de los indicadores para apoyar la toma de decisiones.
+
+### Requerimientos no funcionales
+
+- La interfaz debe ser clara, organizada y fácil de utilizar para la gerencia y los supervisores.
+- La información debe presentarse de manera comprensible mediante tablas, gráficos y elementos visuales adecuados.
+- La aplicación debe ofrecer tiempos de respuesta adecuados para la consulta y visualización de la información.
+- La información presentada debe mantener consistencia con los registros de producción utilizados como fuente.
+- La aplicación debe estar orientada a facilitar el seguimiento de los indicadores sin intervenir directamente sobre la maquinaria o automatizar los procesos productivos.
