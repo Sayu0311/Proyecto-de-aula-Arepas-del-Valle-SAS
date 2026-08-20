@@ -107,3 +107,16 @@ Para el monitoreo del desempeño de la producción, la aplicación permitirá vi
 | Indicador | Descripción | Fórmula |
 |---|---|---|
 | OEE (%) | Indicador que integra disponibilidad, rendimiento y calidad para evaluar el desempeño general de la operación. | Disponibilidad × Rendimiento × Calidad |
+
+## Beneficios esperados
+
+El desarrollo de la aplicación web permitirá centralizar la información de producción y facilitar su consulta mediante dashboards.
+
+Entre los principales beneficios esperados se encuentran:
+
+- Facilitar el seguimiento de los indicadores de producción.
+- Mejorar la visualización y comprensión de la información mediante dashboards.
+- Apoyar a la gerencia y los supervisores en la toma de decisiones.
+- Identificar oportunamente variaciones en el comportamiento de la producción.
+- Facilitar el seguimiento de aspectos como calidad, eficiencia, disponibilidad, rendimiento, OEE y tiempos de paro.
+- Contribuir al mejoramiento continuo de los procesos productivos.
