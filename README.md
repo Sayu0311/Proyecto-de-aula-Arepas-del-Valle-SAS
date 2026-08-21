@@ -120,3 +120,41 @@ Entre los principales beneficios esperados se encuentran:
 - Identificar oportunamente variaciones en el comportamiento de la producción.
 - Facilitar el seguimiento de aspectos como calidad, eficiencia, disponibilidad, rendimiento, OEE y tiempos de paro.
 - Contribuir al mejoramiento continuo de los procesos productivos.
+
+## Usuarios e interesados
+
+El dashboard está dirigido principalmente a los responsables de la gestión de la planta de producción. Los principales usuarios e interesados son:
+
+- Gerencia: consulta el desempeño general de la operación y utiliza los indicadores para apoyar la toma de decisiones.
+- Supervisores de producción: realizan seguimiento al comportamiento de la producción, paros y cumplimiento de los objetivos operativos.
+- Responsable de logística: consulta información relacionada con inventarios y disponibilidad de materiales para apoyar la coordinación de los recursos.
+- Personal de bodega/almacén: registra entradas y salidas de producto terminado y materia prima.
+- Equipo del proyecto: participa en la organización, validación y visualización de la información utilizada por el dashboard.
+
+## Indicadores relacionados con logística e inventario
+
+| Indicador | Operación |
+| Nivel de inventario de materia prima | Entradas - salidas |
+| Nivel de inventario de producto terminado | Entradas - salidas | 
+| Rotación de inventarios | Producto despachado/Inventario promedio 
+| Cumplimiento del despacho (%) | (Pedidos entragos a tiempo / Total de pedidos) * 100 
+
+## Gestion de datos 
+
+Dentro del equipo, Esteban cubre el módulo "Inventarios" del dashboard (uno de los 5 módulos definidos), trabajando en conjunto con Sayuri (Líder de producción, quien aporta los datos de producción y paros) y Andrea (Líder de Operaciones, quien vela por que el flujo completo —de materia prima a producto despachado— sea eficiente). Su entregable específico es asegurar que la información de inventario y distribución llegue completa, correcta y a tiempo a la base de datos que alimenta el tablero.
+
+Antes de su visualización, los datos serán organizados y preparados mediante las siguientes actividades: 
+
+- Definición de la estructura de los registros históricos de producción.
+- Consolidación de los datos de producción de prueba.
+- Depuración de registros incompletos o inconsistentes.
+- Estandarización de unidades y formatos de medición.
+- Preparación de la base de datos para su conexión con el dashboard.
+
+## Herramientas digitales implementadas en la gestion del proyecto
+
+El proyecto utiliza estas herramientas digitales para facilitar tanto la gestión como la documentación y desarrollo de la solución: 
+
+- GitHub: repositorio central para almacenar y modificar la documentación y los archivos asociados al proyecto.
+- Trello: herramienta utilizada para planificar y realizar seguimiento a las tareas, responsables, fechas, hitos y riesgos del proyecto.
+- Herramienta de dashboard: utilizada para desarrollar el prototipo y presentar visualmente los indicadores definidos para la planta. La información y los entregables se organizarán de manera progresiva conforme avance el proyecto.
