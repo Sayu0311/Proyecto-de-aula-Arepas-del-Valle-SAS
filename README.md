@@ -131,13 +131,14 @@ El dashboard está dirigido principalmente a los responsables de la gestión de 
 - Personal de bodega/almacén: registra entradas y salidas de producto terminado y materia prima.
 - Equipo del proyecto: participa en la organización, validación y visualización de la información utilizada por el dashboard.
 
-## Indicadores relacionados con logística e inventario
+### Indicadores relacionados con logística e inventario
 
 | Indicador | Operación |
+|---|---|---|
 | Nivel de inventario de materia prima | Entradas - salidas |
 | Nivel de inventario de producto terminado | Entradas - salidas | 
-| Rotación de inventarios | Producto despachado/Inventario promedio 
-| Cumplimiento del despacho (%) | (Pedidos entragos a tiempo / Total de pedidos) * 100 
+| Rotación de inventarios | Producto despachado/Inventario promedio |
+| Cumplimiento del despacho (%) | (Pedidos entregados a tiempo / Total de pedidos) * 100 |
 
 ## Gestion de datos 
 
